@@ -1,5 +1,5 @@
 def divide_by_six(a):
-    return a/2
+    return a/6  # ataparlar fixed the division
 
 if __name__ == '__main__':
     print("Give the number to be divided by six.")
